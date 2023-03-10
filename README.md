@@ -1,2 +1,2 @@
-# Algorithm
-## A repository of concepts and codes for algorithms.
+# 인하대학교 정보통신공학과 알고리즘 수업
+인하대학교 정보통신공학과 알고리즘 수업에서 배우는 알고리즘의 주요 코드를 정리했습니다.
